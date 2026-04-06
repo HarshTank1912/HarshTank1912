@@ -1,5 +1,5 @@
 
-<h2 align="center">👋 Hello, I'm Harsh Tank</h2>
+<h2 align="center"> Hello 👋, I'm Harsh Tank</h2>
 
 <p align="center">
   Aspiring ML Engineer | Data Analytics Enthusiast <br />
